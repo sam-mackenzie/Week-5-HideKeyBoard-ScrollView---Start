@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FBECE06B-0DC3-47C7-8996-3CF49F4E75AC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HideKeyBoard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>447C756C082C98A80E80D9FCA6C30894C35E6277</key>
+		<string>https://github.com/sam-mackenzie/Week-5-HideKeyBoard-ScrollView---Start.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HideKeyBoard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>447C756C082C98A80E80D9FCA6C30894C35E6277</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sam-mackenzie/Week-5-HideKeyBoard-ScrollView---Start.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>447C756C082C98A80E80D9FCA6C30894C35E6277</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>447C756C082C98A80E80D9FCA6C30894C35E6277</string>
+			<key>IDESourceControlWCCName</key>
+			<string>week5samM</string>
+		</dict>
+	</array>
+</dict>
+</plist>
